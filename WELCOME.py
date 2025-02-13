@@ -9,6 +9,8 @@ from rich.prompt import Prompt
 console = Console()
 
 
+
+
 def welcome():
     # Display color options
     table = Table(title="🎨 Choose Your Color 🎨", style="bold cyan")
